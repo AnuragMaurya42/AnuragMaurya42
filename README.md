@@ -117,5 +117,7 @@ A social media photo-sharing web app:
 </p>
 
 ---
+https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg 
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
