@@ -1,4 +1,4 @@
-# 💻 Anurag Maurya | @anuragmaurya-007
+# 💻 Anurag Maurya | @AnuragMaurya42
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hello,%20I'm%20Anurag%20Maurya!&fontSize=35&fontAlignY=40&fontColor=ffffff)
 
@@ -53,8 +53,8 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragmaurya-007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmaurya-007&layout=compact&theme=radical)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragMaurya42&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMaurya42&layout=compact&theme=radical)
 
 ---
 
@@ -67,13 +67,7 @@
 
 ---
 
-## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-maurya-687144224/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:anuragmaurya.nitsri@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anurag__007__/)
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
 
