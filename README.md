@@ -15,7 +15,7 @@
 🔧 Currently building: `Attendance Management System for NIT Srinagar`  
 🌐 Interned at **Business Web Solution**  
 🌟 5⭐ in C++ | 4⭐ in C on HackerRank  
-📊 Solved **700+ DSA problems** on LeetCode & GFG  
+📊 Solved **800+ DSA problems** on LeetCode & GFG  
 🧠 Skills: MERN Stack, Java, C++, DBMS, OS, DSA, Networks  
 
 ---
@@ -120,6 +120,5 @@ A social media photo-sharing web app:
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </p>
 
----s
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
