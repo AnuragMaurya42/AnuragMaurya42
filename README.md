@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- ═══════════════════════  HERO HEADER  ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,30:090979,70:00d4ff,100:a855f7&height=320&section=header&text=Anurag%20Maurya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Software%20Developer%20%40%20CRIS%20%7C%20Full%20Stack%20%7C%20Data%20Engineer%20⚡&descAlignY=62&descSize=18&stroke=00d4ff&strokeWidth=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,30:090979,70:00d4ff,100:a855f7&height=320&section=header&text=Anurag%20Maurya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Software%20Developer%20%40%20CRIS%20%7C%20Full%20Stack%20%7C%20Data%2FML%20Engineer%20⚡&descAlignY=62&descSize=18&stroke=00d4ff&strokeWidth=3" />
 
 <!-- ═══════════════════════  TYPING BANNER  ═══════════════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&lines=🚉+Software+Developer+%40+CRIS+%7C+Indian+Railways;🐍+Python+%7C+PySpark+%7C+Databricks+%7C+Delta+Lake;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MERN+Stack;🧠+ML+%7C+K-Means+%7C+Scikit-learn+%7C+Pandas;🎓+B.Tech+CSE+—+NIT+Srinagar+(Graduated);💻+800%2B+DSA+Problems+%7C+5⭐+HackerRank+C%2B%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&lines=🚉+Software+Developer+%40+CRIS+%7C+Indian+Railways;🐍+Python+%7C+PySpark+%7C+Databricks+%7C+Delta+Lake;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MERN+Stack;🧠+ML+%7C+K-Means+%7C+Scikit-learn+%7C+Pandas;🎓+B.Tech+CSE+—+NIT+Srinagar+(Graduated);💻+800%2B+DSA+Problems+%7C+5⭐+HackerRank+C%2B%2B;🧾+GST+%7C+Road-to-Rail+Freight+Modal+Shift;📊+Databricks+AI%2FML+%7C+Clustering+Pipelines" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,6 +19,8 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/CRIS-Software%20Developer-00d4ff?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Engineer-Databricks%20%7C%20PySpark-FF3621?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/LeetCode-800%2B%20Solved-FFA116?style=flat-square&labelColor=0d1117" />
 &nbsp;
@@ -240,6 +242,62 @@
 
 <div align="center">
 
+### 💼 Professional & Data Engineering — @ CRIS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛤️ GST – Road to Rail
+> **Freight Billing & GST System — CRIS, Indian Railways**
+
+```
+Tech:  Python · PySpark · SQL · REST APIs
+       GST Compliance · Databricks · Delta Lake
+```
+
+- 🚛➡️🚆 Supports Indian Railways' initiative to shift freight from road to rail
+- 🧾 GST (Goods & Services Tax) invoicing & tax computation for freight bookings
+- 📊 Data pipelines powering freight traffic & revenue analytics
+- 🔗 Integrates with railway freight operations systems
+- ⚙️ Built to scale across zonal freight data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Databricks AI/ML — K-Means Clustering
+> **Unsupervised Learning on Distributed Data**
+
+```
+Tech:  Databricks · PySpark MLlib · Delta Lake
+       Scikit-learn · Pandas · Matplotlib
+```
+
+- 🧩 Distributed K-Means clustering pipeline built on Databricks
+- 📦 Feature engineering & data prep with PySpark + Delta Lake
+- 📈 Cluster evaluation via elbow method & silhouette score
+- 🎯 Applied to pattern discovery & data segmentation
+- ⚡ Scales unsupervised learning across large datasets
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 💡 Personal Projects
+
 <table>
 <tr>
 
@@ -391,12 +449,16 @@ DSA Mastery     █████████████████████�
     <td><b>Building scalable data pipelines at CRIS using PySpark + Databricks</b></td>
   </tr>
   <tr>
+    <td align="center">🧾</td>
+    <td><b>Developing GST-integrated freight systems for the Road-to-Rail initiative</b></td>
+  </tr>
+  <tr>
     <td align="center">⚡</td>
     <td><b>Mastering Delta Lake architecture and Lakehouse design patterns</b></td>
   </tr>
   <tr>
     <td align="center">🧠</td>
-    <td><b>Exploring advanced ML — clustering, classification, feature engineering</b></td>
+    <td><b>Applying K-Means clustering & unsupervised ML on Databricks</b></td>
   </tr>
   <tr>
     <td align="center">🌐</td>
